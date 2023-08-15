@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Burak
 - 👀 I’m interested in ... Programming and Scripting
 - 🌱 I’m currently learning ... Android Development and Web Development
-- 💞️ ...
 - 📫 How to reach me ... burakkarabacak2002@gmail.com
 
 <!---
