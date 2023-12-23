@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Burak
-- 👀 I’m interested in ... Programming and Scripting
+- 👀 I’m interested in ... Programming and FullStack Developing 
 - 🌱 I’m currently learning ... Android Development and Web Development
 
 <!---
